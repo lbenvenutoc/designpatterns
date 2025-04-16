@@ -1,0 +1,5 @@
+package com.luisbenvenuto.designpatterns.headfirst.combining.composite;
+
+public interface Quackable {
+	public void quack();
+}
